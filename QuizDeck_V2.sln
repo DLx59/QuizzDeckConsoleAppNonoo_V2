@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizDeck_V2_UI", "QuizDeck_V2_UI\QuizDeck_V2_UI.csproj", "{055E21FC-D828-4F40-8A8F-BD06D6B44F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizDeck_V2_Librairie", "QuizDeck_V2_Librairie\QuizDeck_V2_Librairie.csproj", "{1A128085-A2DC-4141-8543-628F1800E2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055E21FC-D828-4F40-8A8F-BD06D6B44F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055E21FC-D828-4F40-8A8F-BD06D6B44F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055E21FC-D828-4F40-8A8F-BD06D6B44F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055E21FC-D828-4F40-8A8F-BD06D6B44F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A128085-A2DC-4141-8543-628F1800E2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A128085-A2DC-4141-8543-628F1800E2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A128085-A2DC-4141-8543-628F1800E2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A128085-A2DC-4141-8543-628F1800E2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
